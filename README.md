@@ -1,5 +1,16 @@
+- 👋 Hi, I’m @MujtabaTaimur
+- Developing HTML,CSS and Python Skills.
+-  Passsion for Road and Track Cycling
 
-![Universe Devoloper Sticker ](https://giphy.com/gifs/GitHub-transparent-UCQ5LookOT2ufbsGiT) 
+
+        
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <!-- First Rectangle -->
+    <div style="flex: 1; padding: 10px; background-color: #f0f0f0; height: 100px;">
+         <img src="https://media.giphy.com/media/ESdLS8fOvZQrkcFDQM/giphy-downsized.gif" alt="" width="30%">
+               <img src="https://media.giphy.com/media/1gAyIamkLoaDxkftWM/giphy-downsized.gif" alt="" width="30%">
+               <img src="https://media.giphy.com/media/mGf5XAMiX4WUCocW2O/giphy-downsized.gif" alt="" width="30%">
+    </div> 
    
 
 
