@@ -7,9 +7,7 @@
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <!-- First Rectangle -->
     <div style="flex: 1; padding: 10px; background-color: #f0f0f0; height: 100px;">
-         <img src="https://media.giphy.com/media/ESdLS8fOvZQrkcFDQM/giphy-downsized.gif" alt="" width="30%">
-               <img src="https://media.giphy.com/media/1gAyIamkLoaDxkftWM/giphy-downsized.gif" alt="" width="30%">
-               <img src="https://media.giphy.com/media/mGf5XAMiX4WUCocW2O/giphy-downsized.gif" alt="" width="30%">
+     <iframe src="https://giphy.com/embed/RhSiIe2u05WOn0obtb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciclismoepico-sagan-peter-tour-2019-RhSiIe2u05WOn0obtb">via GIPHY</a></p>
     </div> 
    
 
