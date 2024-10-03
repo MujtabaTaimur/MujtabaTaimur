@@ -6,8 +6,7 @@
         
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <!-- First Rectangle -->
-    <div style="flex: 1; padding: 10px; background-color: #f0f0f0; height: 100px;">
-     <iframe src="https://giphy.com/embed/RhSiIe2u05WOn0obtb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciclismoepico-sagan-peter-tour-2019-RhSiIe2u05WOn0obtb">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RhSiIe2u05WOn0obtb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ciclismoepico-sagan-peter-tour-2019-RhSiIe2u05WOn0obtb">via GIPHY</a></p>
     </div> 
    
 
