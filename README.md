@@ -1,7 +1,7 @@
 -  @MujtabaTaimur
 -  Student at Gunnersbury Catholic School
-- 🥇 Physics 🥈 Computer Science 🥉 Maths 
 - Passion for Road/Track Cycling
+- Londoner
 -  Favourite Rider  -  Tadej Pogacar
 
  ![Middle GIF](https://media.giphy.com/media/OgzmYLIeQfyMsHgVIm/giphy.gif)  
