@@ -1,9 +1,7 @@
 -  @MujtabaTaimur
--  Student at Gunnersbury Catholic School
+-  Student 
 - Passion for Road/Track Cycling
-- Londoner
 -  Favourite Rider  -  Tadej Pogacar
-
  ![Middle GIF](https://media.giphy.com/media/OgzmYLIeQfyMsHgVIm/giphy.gif)  
 <!---
 MujtabaTaimur/MujtabaTaimur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
