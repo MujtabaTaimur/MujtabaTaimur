@@ -1,5 +1,8 @@
 -  @MujtabaTaimur
--  Student 
+- Languages:
+Java JavaScript C++ Go Python C C# Ruby Bash YAML
+
+
 - Passion for Road/Track Cycling
 -  Favourite Rider  -  Tadej Pogacar
 
