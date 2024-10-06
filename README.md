@@ -5,7 +5,9 @@ I'm a Student  passionate about Programming. Here's a bit about me:
 - 🔭 I’m currently working on Stock Portfolio Tracker
 - 🌱 I’m currently learning Python
 
-- 📫 How to reach me: +447787022590
+- 📫 How to reach me
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:734435517877321821)](https://discord.com/users/:734435517877321821)
+
 
 ## 🚀 Skills
 
@@ -35,5 +37,5 @@ I'm a Student  passionate about Programming. Here's a bit about me:
 - Passionate for Road and Track Cycling
 - Race for VC Londres
 - Favourite Rider - Tadej Pogacar
-![GIF](https://giphy.com/gifs/rafalmajka-uae-team-emirates-rafal-majka-tadej-pogacar-Gq60veq7Gt1bQNFUaq)  
+
 
