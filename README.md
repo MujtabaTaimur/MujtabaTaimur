@@ -6,8 +6,8 @@ I'm a Student  passionate about Programming. Here's a bit about me:
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734435517877321821)](https://discord.com/users/734435517877321821)
-
+  - Discord - @mtaimur
+  - Number - +44777022590
 
 ## 🚀 Skills
 
