@@ -35,5 +35,5 @@ I'm a Student  passionate about Programming. Here's a bit about me:
 - Passionate for Road and Track Cycling
 - Race for VC Londres
 - Favourite Rider - Tadej Pogacar
-- 
+![Tadej Pogacar]([https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical](https://giphy.com/gifs/rafalmajka-uae-team-emirates-rafal-majka-tadej-pogacar-Gq60veq7Gt1bQNFUaq))  
 
