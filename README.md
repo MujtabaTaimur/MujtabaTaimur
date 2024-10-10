@@ -5,7 +5,7 @@
 
 - 📫 How to reach me
   - Discord - @jtaimur
-  - Number - +44777022590
+  - Number - +447787022590
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical)
 
