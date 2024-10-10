@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me
-  - Discord - @mtaimur
+  - Discord - @jtaimur
   - Number - +44777022590
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical)
