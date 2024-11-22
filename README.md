@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me
-  - Discord - @jtaimur
-  - Number - +447787022590
+  - Discord - @jtaimur                                                      ![Screenshot 1446-05-20 at 22 12 35](https://github.com/user-attachments/assets/0afc14c0-0751-47f3-9833-8801cb4f764b)
+  - Number - +447787022590                                                          
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical)     ![Screenshot 1446-05-20 at 22 12 35](https://github.com/user-attachments/assets/0afc14c0-0751-47f3-9833-8801cb4f764b)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical)    
 
 ## 📚 Featured Projects
 
