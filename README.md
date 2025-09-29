@@ -41,8 +41,8 @@
 
 <p align="center">
   
-<a href="https://discord.gg/your-invite-link" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+
   <a href="mailto:jacobtaimur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+
 </p>
