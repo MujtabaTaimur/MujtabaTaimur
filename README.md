@@ -13,13 +13,11 @@
 
 ---
 
-<h1>Current Projects</h1>
+## 📚 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [AI-ChatBot-Pytorch](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-) | AI chatbot implemented in PyTorch. |
-| [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign) | Visual and interactive thermometer design project. |
+### [AI-ChatBot-Pytorch](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
 
+### [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
 ---
 
 <!--<p align="center">
