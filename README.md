@@ -16,16 +16,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaTaimur&theme=radical" alt="GitHub Streak" />
 </p>
 
- 
-
-
-                                                   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaTaimur&layout=compact&theme=radical&cache_seconds=1800)
-
-
-
-
 ## 📚 Featured Projects
 
 ### AI-ChatBot-Pytorch (https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
