@@ -2,7 +2,7 @@
 
                                                    
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MujtabaTAimur&show_icons=true&theme=radical) 
 
 ## 📚 Featured Projects
 
