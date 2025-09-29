@@ -42,4 +42,4 @@
     <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
   </a>
 </p>
-![Discord](https://img.shields.io/badge/Discord-@mtaimur-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
