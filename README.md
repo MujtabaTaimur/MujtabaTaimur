@@ -40,9 +40,10 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  
-
-  <a href="mailto:jacobtaimur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
-
+  <a href="https://discord.com/users/734435517877321821" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/734435517877321821" alt="Discord Presence" />
+  </a>
+</p>
+<p align="center">
+  <sub>Discord: <strong>@mtaimur</strong></sub>
 </p>
