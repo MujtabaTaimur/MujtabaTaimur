@@ -52,10 +52,7 @@ A visually engaging **thermostat and thermometer UI design** project.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://dsc-readme.tsuni.dev/api/user/734435517877321821?width=400" alt="Discord Profile Preview" />
-</p>
-
+![Discord Profile Preview](https://dsc-readme.tsuni.dev/api/user/734435517877321821?banner=https://example.com/banner.png&width=400)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 
