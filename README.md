@@ -39,11 +39,6 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://discord.com/users/734435517877321821" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/734435517877321821" alt="Discord Presence" />
-  </a>
-</p>
-<p align="center">
+![Discord Presence](https://lanyard.cnrad.dev/api/734435517877321821)
   <sub>Discord: <strong>@mtaimur</strong></sub>
 </p>
