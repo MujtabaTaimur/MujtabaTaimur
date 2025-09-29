@@ -17,9 +17,9 @@
 </p>
 <table align="center" style="margin:0 auto 10px auto;">
   <tr>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"size="10px">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"size="1px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif"size="1px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif"size="1px">
    
 
 ## 📚 Featured Projects
