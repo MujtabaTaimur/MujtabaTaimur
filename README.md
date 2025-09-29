@@ -3,7 +3,7 @@
 <h1 align="center">
   ᗰᑌᒍTᗩᗷᗩ TᗩIᗰᑌᖇ
 </h1>
-## 🌟 Tech & Skills
+<h1>Language Skills </h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 Featured Projects
+<h1>Current Projects</h1>
 
 | Project | Description |
 |---------|-------------|
