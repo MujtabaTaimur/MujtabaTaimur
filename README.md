@@ -51,23 +51,9 @@ A visually engaging **thermostat and thermometer UI design** project.
     <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
   </a>
 </p>
-## 💬 Connect on Discord
 
-<p align="center">
-  <!-- Discord Badge -->
-  <a href="https://discord.com/users/734435517877321821" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
-  </a>
-</p>
 
-<p align="center">
-  <!-- Cool Discord GIF -->
-  <img src="https://media.giphy.com/media/3o7aD4R9fOqTKLqJZy/giphy.gif" width="250" alt="Discord Cool GIF" />
-</p>
 
-<p align="center">
-  <sub>💡 Ping me anytime on Discord: <strong>@mtaimur</strong></sub>
-</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 
