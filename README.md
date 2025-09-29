@@ -13,12 +13,19 @@
 
 ---
 
-## 📚 Featured Projects
+### 🤖 [AI ChatBot (PyTorch)](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
+A conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses.  
+- 🧠 Implements a simple **Neural Network** model for natural language processing.  
+- 💬 Interactive **chat interface** for testing and deployment.  
+- 🚀 Great foundation for building advanced conversational agents.  
 
-### [AI-ChatBot-Pytorch](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
-
-### [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
 ---
+
+### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
+A visually engaging **thermostat and thermometer UI design** project.  
+- 🎨 Built with **HTML, CSS, and JavaScript** for interactivity.  
+- 🌍 Real-world inspired **temperature simulation**.  
+- 🖥️ Showcases **creative front-end design** skills.  
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MujtabaTaimur&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
