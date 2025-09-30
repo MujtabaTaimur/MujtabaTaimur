@@ -20,18 +20,16 @@
 </p>
 
 ### 🤖 [AI ChatBot (PyTorch)](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
-A conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses.  
-- 🧠 Implements a simple **Neural Network** model for natural language processing.  
-- 💬 Interactive **chat interface** for testing and deployment.  
-- 🚀 Great foundation for building advanced conversational agents.  
+<p>a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. </p>
 
 ---
 
 ### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
-A visually engaging **thermostat and thermometer UI design** project.  
-- 🎨 Built with **HTML, CSS, and JavaScript** for interactivity.  
-- 🌍 Real-world inspired **temperature simulation**.  
-- 🖥️ Showcases **creative front-end design** skills.  
+<p>a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva AI.</p>
+
+### ✈️ [Aerospace powered by OpenSky Newtwork API](https://github.com/MujtabaTaimur/Aeroscope-v2-)
+<p>real-time flight tracking app inspired by FlightRadar24. It’s built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data. The UI is powered by shadcn/ui, Radix UI, and Lucide icons, with TanStack Query handling data fetching and caching.</p>
+  
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MujtabaTaimur&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
