@@ -31,7 +31,7 @@ a conversational AI chatbot built with **PyTorch**, trained on custom intents to
 a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva AI.
 
 ### ✈️ [Aerospace powered by OpenSky Network API](https://github.com/MujtabaTaimur/Aeroscope-v2-)
-real-time flight tracking app inspired by FlightRadar24. It’s built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data. The UI is powered by shadcn/ui, Radix UI, and Lucide icons, with TanStack Query handling data fetching and caching.
+real-time flight tracking app inspired by FlightRadar24, built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data. The UI is powered by shadcn/ui, Radix UI, and Lucide icons, with TanStack Query handling data fetching and caching.
   
 <h6>Upcoming Project - Windows XP Space Invaders Remix </h6>
 <!--<p align="center">
