@@ -28,7 +28,7 @@ a conversational AI chatbot built with **PyTorch**, trained on custom intents to
 
 
 ### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
-a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva AI.
+a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva AI, and Replit AI used for extended writing.
 
 ### ✈️ [Aerospace powered by OpenSky Network API](https://github.com/MujtabaTaimur/Aeroscope-v2-)
 real-time flight tracking app inspired by FlightRadar24, **built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data.**
