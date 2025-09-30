@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaTaimur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
+---
 ### 🤖 [AI ChatBot (PyTorch)](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
 a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. 
 
@@ -26,7 +26,7 @@ a conversational AI chatbot built with **PyTorch**, trained on custom intents to
 
 ### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
 a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva AI.
-
+---
 ### ✈️ [Aerospace powered by OpenSky Network API](https://github.com/MujtabaTaimur/Aeroscope-v2-)
 real-time flight tracking app inspired by FlightRadar24. It’s built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data. The UI is powered by shadcn/ui, Radix UI, and Lucide icons, with TanStack Query handling data fetching and caching.
   
