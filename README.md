@@ -10,7 +10,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="75px" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="75px" />
    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75px" />
-   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="75px" />
+   
 </p>
 
 ---
