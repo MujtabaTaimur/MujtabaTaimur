@@ -6,12 +6,12 @@
 <h1>Language  </h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100px" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75px" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="75px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75px" />
 </p>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="100px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="75px" />
 </p>
 
 ---
