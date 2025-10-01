@@ -3,7 +3,7 @@
 <h1 align="center">
   ᗰᑌᒍTᗩᗷᗩ TᗩIᗰᑌᖇ
 </h1>
-<h6>Student in Year 10 - 14yrs </h6>
+<h6>Student in Year 10 </h6>
 <h1>Development Skills</h1>
 
 <p align="center">
