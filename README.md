@@ -54,6 +54,10 @@ real-time flight tracking app inspired by FlightRadar24, **built with React, Typ
     <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
   </a>
 </p>
+![IMG_0824 2](https://github.com/user-attachments/assets/e50feeb4-e26b-48e7-b794-53fc694c3620)
+![IMG_0823 2](https://github.com/user-attachments/assets/aa4599d9-c525-47b6-93f9-683dec975532)
+![IMG_0822 2](https://github.com/user-attachments/assets/a1411974-0ba9-4421-8e32-a86480eb0e09)
+![IMG_0821 2](https://github.com/user-attachments/assets/fb9e1764-dba5-4be0-9950-767e97ce9535)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
