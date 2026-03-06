@@ -1,14 +1,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<p align="center">
+<div align="center">
+<pre>
  ███╗   ███╗██╗   ██╗     ██╗████████╗ █████╗ ██████╗  █████╗     ████████╗ █████╗ ██╗███╗   ███╗██╗   ██╗██████╗ 
 ████╗ ████║██║   ██║     ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗    ╚══██╔══╝██╔══██╗██║████╗ ████║██║   ██║██╔══██╗
 ██╔████╔██║██║   ██║     ██║   ██║   ███████║██████╔╝███████║       ██║   ███████║██║██╔████╔██║██║   ██║██████╔╝
 ██║╚██╔╝██║██║   ██║██   ██║   ██║   ██╔══██║██╔══██╗██╔══██║       ██║   ██╔══██║██║██║╚██╔╝██║██║   ██║██╔══██╗
 ██║ ╚═╝ ██║╚██████╔╝╚█████╔╝   ██║   ██║  ██║██████╔╝██║  ██║       ██║   ██║  ██║██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
 ╚═╝     ╚═╝ ╚═════╝  ╚════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-                                                                                                                 
-</p>
+                                                                                                                  
+</pre>
+</div>
 
 <h1>Development Skills</h1>
 
@@ -23,12 +25,10 @@
 ---
 
 
-
 ---
 
 ### 🤖 [AI ChatBot (PyTorch)](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
 a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. 
-
 
 
 ### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
@@ -60,5 +60,3 @@ real-time flight tracking app inspired by FlightRadar24, **built with React, Typ
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-
