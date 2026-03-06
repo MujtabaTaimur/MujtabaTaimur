@@ -1,62 +1,75 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
 <div align="center">
-<pre>
- ███╗   ███╗██╗   ██╗     ██╗████████╗ █████╗ ██████╗  █████╗     ████████╗ █████╗ ██╗███╗   ███╗██╗   ██╗██████╗ 
-████╗ ████║██║   ██║     ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗    ╚══██╔══╝██╔══██╗██║████╗ ████║██║   ██║██╔══██╗
-██╔████╔██║██║   ██║     ██║   ██║   ███████║██████╔╝███████║       ██║   ███████║██║██╔████╔██║██║   ██║██████╔╝
-██║╚██╔╝██║██║   ██║██   ██║   ██║   ██╔══██║██╔══██╗██╔══██║       ██║   ██╔══██║██║██║╚██╔╝██║██║   ██║██╔══██╗
-██║ ╚═╝ ██║╚██████╔╝╚█████╔╝   ██║   ██║  ██║██████╔╝██║  ██║       ██║   ██║  ██║██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
-╚═╝     ╚═╝ ╚═════╝  ╚════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-                                                                                                                  
-</pre>
+
+# MUJTABA TAIMUR
+### Engineering Enthusiast | Competitive Cyclist | Software Developer
+
+[🌐 Website](https://mtaimur.uk) • [💻 GitHub](https://github.com/MujtabaTaimur) • [📧 Contact](mailto:mujtaba@engineering)
+
 </div>
 
-<h1>Development Skills</h1>
+```txt
+> SYSTEM_PROFILE_LOADED
+STATUS: Ready for engineering challenges
+```
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75px" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="75px" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="75px" />
-   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75px" />
-   
-</p>
+## ABOUT.exe
+- Year 10 student studying **AQA Higher Sciences**, **Edexcel Maths Higher**, and **OCR Computer Science**.
+- Focused on **engineering**, **technical problem-solving**, and **system optimisation**.
+- Combining analytical precision from software/engineering with discipline from high-level sport.
+
+## PROJECTS.dir
+### ✈️ [AEROSCOPE_V2](https://github.com/MujtabaTaimur/Aeroscope-v2-)
+`[React • TypeScript • Vite • Tailwind • Leaflet • OpenSky API]`  
+Real-time flight tracking app inspired by FlightRadar24 with live aircraft map visualisation.
+
+### 🤖 [AI_CHATBOT](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
+`[PyTorch • NLP]`  
+Conversational AI chatbot trained on intent-based data for intelligent response handling.
+
+### 🧮 [SCIENTIFIC_CALC](https://github.com/MujtabaTaimur)
+`[Python]`  
+Scientific and engineering-focused computation tool for advanced calculations.
+
+### 🌡️ [ThermostatDesign](https://github.com/MujtabaTaimur/ThermostatDesign)
+`[HTML • CSS]`  
+Interactive thermostat UI project focused on clean front-end layout, styling, and animated elements.
+
+## TELEMETRY.dat
+```txt
+National 10 Mile Time Trials .......... 1st (21:59)
+European Junior Cycling Tour Assen .... 4th Overall
+National Youth Omnium Finals .......... 2nd Place
+National Youth Circuit Championships ... 2nd Place
+Youth Tour of Scotland ................ 3rd Overall
+British Cycling National Points (2025)  304
+```
+
+## SKILLS.lib
+- **Programming:** Python, JavaScript, C++, MATLAB, SQL
+- **Frameworks:** React, Node.js, PyTorch, TensorFlow, Express
+- **Tools:** Git, Docker, VS Code, Linux, CAD
+- **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase
+
+## CERTIFICATES.log
+- Foundations of Business Analysis — SAP
+- Introduction to Cloud Computing — IBM
+- Exploratory Data Analysis for Machine Learning — IBM
+- Project Development in Python — Microsoft
+- Introduction to Software Engineering — IBM
+- Introduction to HTML, CSS & JavaScript — IBM
+- Aerospace Engineer — Rolls-Royce
+- Future-Ready Skills — Rolls-Royce
+
+## CONTACT.sh
+- 📞 07787 022590
+- 🐙 [github.com/MujtabaTaimur](https://github.com/MujtabaTaimur)
+- 🚀 Open to work experience opportunities
 
 ---
 
+<div align="center">
 
----
+**SYSTEM_BUILD: 2025 | ENGINEERING PORTFOLIO**  
+*"PRECISION. PERFORMANCE. EXCELLENCE."*
 
-### 🤖 [AI ChatBot (PyTorch)](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
-a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. 
-
-
-### 🌡️ [Interactive Thermometer](https://github.com/MujtabaTaimur/ThermostatDesign)
-a visual  **thermostat and thermometer UI design** project, all elements credit goes to Adobe Stock Images and refined in Adobe Illustrator, image transition made by Canva, and Replit  used for extended writing.
-
-### ✈️ [Aerospace powered by OpenSky Network API](https://github.com/MujtabaTaimur/Aeroscope-v2-)
-real-time flight tracking app inspired by FlightRadar24, **built with React, TypeScript, Vite, and Tailwind CSS, using Leaflet for interactive maps and the OpenSky Network API for live flight data.**
-<h6>Upcoming Project - Windows XP Space Invaders Remix </h6>
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujtabaTaimur&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujtabaTaimur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujtabaTaimur&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>-->
-
----
-
-
-<p align="center">
-  <a href="https://discord.com/users/734435517877321821">
-    <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
-  </a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
