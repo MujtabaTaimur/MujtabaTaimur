@@ -3,7 +3,7 @@
 # MUJTABA TAIMUR
 ### Engineering Enthusiast | Competitive Cyclist | Software Developer
 
-[🌐 Website](https://mtaimur.uk) • [💻 GitHub](https://github.com/MujtabaTaimur) • [📧 Contact](mailto:mujtaba@engineering)
+[ Website](https://mtaimur.uk) • [GitHub](https://github.com/MujtabaTaimur) • [ Contact](mailto:mujtaba@engineering)
 
 </div>
 
@@ -18,19 +18,19 @@ STATUS: Ready for engineering challenges
 - Combining analytical precision from software/engineering with discipline from high-level sport.
 
 ## PROJECTS.dir
-### ✈️ [AEROSCOPE_V2](https://github.com/MujtabaTaimur/Aeroscope-v2-)
+### [AEROSCOPE_V2](https://github.com/MujtabaTaimur/Aeroscope-v2-)
 `[React • TypeScript • Vite • Tailwind • Leaflet • OpenSky API]`  
 Real-time flight tracking app inspired by FlightRadar24 with live aircraft map visualisation.
 
-### 🤖 [AI_CHATBOT](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
+### [AI_CHATBOT](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
 `[PyTorch • NLP]`  
 Conversational AI chatbot trained on intent-based data for intelligent response handling.
 
-### 🧮 [SCIENTIFIC_CALC](https://github.com/MujtabaTaimur)
+###  [SCIENTIFIC_CALC](https://github.com/MujtabaTaimur)
 `[Python]`  
 Scientific and engineering-focused computation tool for advanced calculations.
 
-### 🌡️ [ThermostatDesign](https://github.com/MujtabaTaimur/ThermostatDesign)
+###  [ThermostatDesign](https://github.com/MujtabaTaimur/ThermostatDesign)
 `[HTML • CSS]`  
 Interactive thermostat UI project focused on clean front-end layout, styling, and animated elements.
 
