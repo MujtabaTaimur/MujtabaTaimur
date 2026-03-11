@@ -3,14 +3,11 @@
 # MUJTABA TAIMUR
 ### Engineering Enthusiast | Competitive Cyclist | Software Developer
 
-[ Website](https://mtaimur.uk) • [GitHub](https://github.com/MujtabaTaimur) • [ Contact](mailto:mujtaba@engineering)
+[ Website](https://mtaimur.uk) • [GitHub](https://github.com/MujtabaTaimur) • [ Contact](mailto:22taimmurm@gunnersburyinfo.com)
 
 </div>
 
-```txt
-> SYSTEM_PROFILE_LOADED
-STATUS: Ready for engineering challenges
-```
+
 
 ## ABOUT.exe
 - Year 10 student studying **AQA Higher Sciences**, **Edexcel Maths Higher**, and **OCR Computer Science**.
@@ -41,14 +38,9 @@ European Junior Cycling Tour Assen .... 4th Overall
 National Youth Omnium Finals .......... 2nd Place
 National Youth Circuit Championships ... 2nd Place
 Youth Tour of Scotland ................ 3rd Overall
-British Cycling National Points (2025)  304
+
 ```
 
-## SKILLS.lib
-- **Programming:** Python, JavaScript, C++, MATLAB, SQL
-- **Frameworks:** React, Node.js, PyTorch, TensorFlow, Express
-- **Tools:** Git, Docker, VS Code, Linux, CAD
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis, Firebase
 
 ## CERTIFICATES.log
 - Foundations of Business Analysis — SAP
@@ -60,10 +52,6 @@ British Cycling National Points (2025)  304
 - Aerospace Engineer — Rolls-Royce
 - Future-Ready Skills — Rolls-Royce
 
-## CONTACT.sh
-- 📞 07787 022590
-- 🐙 [github.com/MujtabaTaimur](https://github.com/MujtabaTaimur)
-- 🚀 Open to work experience opportunities
 
 ---
 
