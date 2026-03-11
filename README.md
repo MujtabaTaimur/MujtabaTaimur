@@ -1,6 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</p>
-
+<div allign="center">
 # MUJTABA TAIMUR
 ### Engineering Enthusiast | Competitive Cyclist | Software Developer
 
@@ -62,5 +60,5 @@ Youth Tour of Scotland ................ 3rd Overall
 *"PRECISION. PERFORMANCE. EXCELLENCE."*
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
 
