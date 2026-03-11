@@ -8,7 +8,7 @@
                                                                                                                   
 </pre>
 </div>
-[ Website](https://mtaimur.uk) 
+
 </div>
 <h1>Development Skills</h1>
 
