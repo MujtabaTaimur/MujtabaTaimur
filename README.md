@@ -58,7 +58,7 @@ Youth Tour of Scotland ................ 3rd Overall
 
 <div align="center">
 
-**SYSTEM_BUILD: 2025 | ENGINEERING PORTFOLIO**  
+**SYSTEM_BUILD: 2025 | PORTFOLIO**  
 *"PRECISION. PERFORMANCE. EXCELLENCE."*
 
 </div>
