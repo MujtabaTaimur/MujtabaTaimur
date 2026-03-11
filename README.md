@@ -1,6 +1,5 @@
-<div allign="center">
-  # MUJTABA TAIMUR
-  ### Engineering Enthusiast | Competitive Cyclist | Software Developer
+# MUJTABA TAIMUR
+### Engineering Enthusiast | Competitive Cyclist | Software Developer
 
 [ Website](https://mtaimur.uk) • [GitHub](https://github.com/MujtabaTaimur) • [ Contact](mailto:22taimmurm@gunnersburyinfo.com)
 
