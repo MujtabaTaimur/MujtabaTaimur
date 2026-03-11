@@ -48,6 +48,10 @@ Youth Tour of Scotland ................ 3rd Overall
 - Introduction to HTML, CSS & JavaScript — IBM
 - Aerospace Engineer — Rolls-Royce
 - Future-Ready Skills — Rolls-Royce
+- IChemE Sprint: Process Engineering in the Energy Sector - IChemE
+- Siemens: Engineering - Siemens
+- Motorsport Engineering with Luke Barron - University of Huddersfield
+- Rolls-Royce: Fitter/Machinist - Rolls-Royce
 
 
 ---
