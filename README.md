@@ -74,6 +74,11 @@ Youth Tour of Scotland ................ 3rd
 
 
 ---
+<p align="center">
+  <a href="https://discord.com/users/734435517877321821">
+    <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
+  </a>
+</p>
 
 <div align="center">
 
