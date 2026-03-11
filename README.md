@@ -20,11 +20,11 @@ Real-time flight tracking app inspired by FlightRadar24 with live aircraft map v
 
 ### [AI_CHATBOT](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
 `[PyTorch • NLP]`  
-Conversational AI chatbot trained on intent-based data for intelligent response handling.
+a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. 
 
 ###  [SCIENTIFIC_CALC](https://github.com/MujtabaTaimur)
 `[Python]`  
-Scientific and engineering-focused computation tool for advanced calculations.
+Scientific and engineering-focused computation tool.
 
 ###  [ThermostatDesign](https://github.com/MujtabaTaimur/ThermostatDesign)
 `[HTML • CSS]`  
