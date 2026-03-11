@@ -1,7 +1,7 @@
 # MUJTABA TAIMUR
 ### Engineering Enthusiast | Competitive Cyclist | Software Developer
 
-[ Website](https://mtaimur.uk) • 
+[ Website](https://mtaimur.uk) 
 </div>
 
 
