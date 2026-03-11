@@ -30,11 +30,11 @@ Interactive thermostat UI project focused on clean front-end layout, styling, an
 
 ## TELEMETRY.dat
 ```txt
-National 10 Mile Time Trials .......... 1st (21:59)
-European Junior Cycling Tour Assen .... 4th Overall
-National Youth Omnium Finals .......... 2nd Place
-National Youth Circuit Championships ... 2nd Place
-Youth Tour of Scotland ................ 3rd Overall
+National 10 Mile Time Trials .......... 1st
+European Junior Cycling Tour Assen .... 4th 
+National Youth Omnium Finals .......... 2nd
+National Youth Circuit Championships ... 2nd 
+Youth Tour of Scotland ................ 3rd 
 
 ```
 
