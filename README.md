@@ -47,15 +47,7 @@ Scientific and engineering-focused computation tool.
 `[HTML • CSS]`  
 Interactive thermostat UI project focused on clean front-end layout, styling, and animated elements.
 
-## TELEMETRY.dat
-```txt
-National 10 Mile Time Trials .......... 1st
-European Junior Cycling Tour Assen .... 4th 
-National Youth Omnium Finals .......... 2nd
-National Youth Circuit Championships ... 2nd 
-Youth Tour of Scotland ................ 3rd 
 
-```
 
 
 ## CERTIFICATES.log
