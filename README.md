@@ -26,7 +26,7 @@
 
 
 ## ABOUT.exe
-- Year 10 student studying **AQA Higher Sciences**, **Edexcel Maths Higher**, and **OCR Computer Science**.
+- Year 11 student studying **AQA Higher Sciences**, **Edexcel Maths Higher**, and **OCR Computer Science**.
 - Focused on **engineering**, **technical problem-solving**, and **system optimisation**.
 - Combining analytical precision from software/engineering with discipline from high-level sport.
 
