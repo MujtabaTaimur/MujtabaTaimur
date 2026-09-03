@@ -74,8 +74,6 @@ Interactive thermostat UI project focused on clean front-end layout, styling, an
 
 <div align="center">
 
-**SYSTEM_BUILD: 2026 | PORTFOLIO**  
-*"PRECISION. PERFORMANCE. EXCELLENCE."*
 
 </div>
 
