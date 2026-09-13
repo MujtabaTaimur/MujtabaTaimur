@@ -1,4 +1,6 @@
-<h1 align="center">MT_</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=38&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=320&height=90&lines=MT_" alt="MT_"/>
+</p>
 
 <p align="center">
   <a href="https://mtaimur.de">
@@ -10,14 +12,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=820&section=header" width="100%" alt="rule"/>
 </p>
 
-<h3 align="center">ABOUT</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=ABOUT" alt="ABOUT"/>
+</p>
 
 <p align="center">
   Building at the intersection of sport science and engineering:<br/>
   software, AI systems, homelab infrastructure, and performance analytics.
 </p>
 
-<h3 align="center">STACK</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=STACK" alt="STACK"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117"/>
@@ -28,7 +34,9 @@
   <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41&labelColor=0d1117"/>
 </p>
 
-<h3 align="center">PROJECTS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=PROJECTS" alt="PROJECTS"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/MujtabaTaimur/AEROSCOPE_V2"><b>AEROSCOPE V2</b></a>
@@ -44,7 +52,9 @@
   <br/>Linux services, networking, SSH, and self-hosted automation
 </p>
 
-<h3 align="center">POWER-UPS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=POWER-UPS" alt="POWER-UPS"/>
+</p>
 
 <p align="center">
   <code>IBM</code> &nbsp;//&nbsp; <code>SAP</code> &nbsp;//&nbsp; <code>MICROSOFT</code> &nbsp;//&nbsp; <code>GOOGLE</code> &nbsp;//&nbsp; <code>ROLLS-ROYCE</code> &nbsp;//&nbsp; <code>SIEMENS</code>
@@ -58,13 +68,17 @@
   <img src="https://streak-stats.demolab.com?user=MujtabaTaimur&hide_border=true&background=0d1117&stroke=00FF4126&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="stats" height="160"/>
 </p>
 
-<h3 align="center">CONTRIBUTIONS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=520&height=42&lines=CONTRIBUTIONS" alt="CONTRIBUTIONS"/>
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00FF41/MujtabaTaimur" width="100%" alt="contribution graph"/>
 </p>
 
-<h3 align="center">PLAYER 2?</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=PLAYER+2%3F" alt="PLAYER 2?"/>
+</p>
 
 <p align="center">
   <a href="mailto:dev@mtaimur.de">dev@mtaimur.de</a>
