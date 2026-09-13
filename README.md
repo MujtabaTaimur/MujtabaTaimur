@@ -1,81 +1,75 @@
-<img src="https://raw.githubusercontent.com/mcanouil/ggpacman/master/inst/extdata/pacman.gif" width="700">
-<pre>
- ███╗   ███╗██╗   ██╗     ██╗████████╗ █████╗ ██████╗  █████╗     ████████╗ █████╗ ██╗███╗   ███╗██╗   ██╗██████╗ 
-████╗ ████║██║   ██║     ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗    ╚══██╔══╝██╔══██╗██║████╗ ████║██║   ██║██╔══██╗
-██╔████╔██║██║   ██║     ██║   ██║   ███████║██████╔╝███████║       ██║   ███████║██║██╔████╔██║██║   ██║██████╔╝
-██║╚██╔╝██║██║   ██║██   ██║   ██║   ██╔══██║██╔══██╗██╔══██║       ██║   ██╔══██║██║██║╚██╔╝██║██║   ██║██╔══██╗
-██║ ╚═╝ ██║╚██████╔╝╚█████╔╝   ██║   ██║  ██║██████╔╝██║  ██║       ██║   ██║  ██║██║██║ ╚═╝ ██║╚██████╔╝██║  ██║
-╚═╝     ╚═╝ ╚═════╝  ╚════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-                                                                                                                  
-</pre>
-</div>
+<h1 align="center">MT_</h1>
 
-</div>
-
-## SKILLS.exe
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFnb2JiaXV5dzJucXRoM2Q0d3QweWNndnk4d2Exc2dpMzZmNGo1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="75px" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpbjJxYXNoeGU4MmFyOHUzdHF3dTR6azZrbzk4bm9vbHR0M2w3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="75px" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNkdmYzM2o1czc2a3c1dzF2dDNiZGFucHZ0MzJjdTdub3kwbGIxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="75px" />
-   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75px" />
-   
-</p>
-
-
-</div>
-
-
-
-## ABOUT.exe
-- Year 11 student studying **AQA Higher Sciences**, **Edexcel Maths Higher**, and **OCR Computer Science**.
-- Focused on **engineering**, **technical problem-solving**, and **system optimisation**.
-- Combining analytical precision from software/engineering with discipline from high-level sport.
-
-## PROJECTS.dir
-### [AEROSCOPE_V2](https://github.com/MujtabaTaimur/Aeroscope-v2-)
-`[React • TypeScript • Vite • Tailwind • Leaflet • OpenSky API]`  
-Real-time flight tracking app inspired by FlightRadar24 with live aircraft map visualisation.
-
-### [AI_CHATBOT](https://github.com/MujtabaTaimur/AI-ChatBot-Pytorch-)
-`[PyTorch • NLP]`  
-a conversational AI chatbot built with **PyTorch**, trained on custom intents to provide intelligent responses. 
-
-###  [SCIENTIFIC_CALC](https://github.com/MujtabaTaimur)
-`[Python]`  
-Scientific and engineering-focused computation tool.
-
-###  [ThermostatDesign](https://github.com/MujtabaTaimur/ThermostatDesign)
-`[HTML • CSS]`  
-Interactive thermostat UI project focused on clean front-end layout, styling, and animated elements.
-
-
-
-
-## CERTIFICATES.log
-- Foundations of Business Analysis — SAP
-- Introduction to Cloud Computing — IBM
-- Exploratory Data Analysis for Machine Learning — IBM
-- Project Development in Python — Microsoft
-- Introduction to Software Engineering — IBM
-- Introduction to HTML, CSS & JavaScript — IBM
-- Aerospace Engineer — Rolls-Royce
-- Future-Ready Skills — Rolls-Royce
-- IChemE Sprint: Process Engineering in the Energy Sector - IChemE
-- Siemens: Engineering - Siemens
-- Motorsport Engineering with Luke Barron - University of Huddersfield
-- Rolls-Royce: Fitter/Machinist - Rolls-Royce
-
-
----
-<p align="center">
-  <a href="https://discord.com/users/734435517877321821">
-    <img src="https://img.shields.io/badge/Discord-@mtaimur-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: @mtaimur" />
+  <a href="https://mtaimur.de">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=YEAR+11+%2F%2F+LONDON+%2F%2F+ATHLETE-ENGINEER;PLAYER+1+READY;PRESS+START" alt="tagline"/>
   </a>
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=820&section=header" width="100%" alt="rule"/>
+</p>
 
+<h3 align="center">ABOUT</h3>
 
-</div>
+<p align="center">
+  Building at the intersection of sport science and engineering:<br/>
+  software, AI systems, homelab infrastructure, and performance analytics.
+</p>
 
+<h3 align="center">STACK</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41&labelColor=0d1117"/>
+</p>
+
+<h3 align="center">PROJECTS</h3>
+
+<p align="center">
+  <a href="https://github.com/MujtabaTaimur/AEROSCOPE_V2"><b>AEROSCOPE V2</b></a>
+  <img src="https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0d1117"/>
+  <br/>Live aircraft positions on a Leaflet map via the OpenSky API
+  <br/><br/>
+  <a href="https://github.com/MujtabaTaimur/ThermostatDesign"><b>THERMOSTAT DESIGN</b></a>
+  <img src="https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0d1117"/>
+  <br/>Circular, hardware-inspired smart-thermostat UI with animated weather scenes, built to feel physical and alive
+  <br/><br/>
+  <b>SERVER HOMELAB</b>
+  <img src="https://img.shields.io/badge/WIP-8B949E?style=flat-square&labelColor=0d1117"/>
+  <br/>Linux services, networking, SSH, and self-hosted automation
+</p>
+
+<h3 align="center">POWER-UPS</h3>
+
+<p align="center">
+  <code>IBM</code> &nbsp;//&nbsp; <code>SAP</code> &nbsp;//&nbsp; <code>MICROSOFT</code> &nbsp;//&nbsp; <code>GOOGLE</code> &nbsp;//&nbsp; <code>ROLLS-ROYCE</code> &nbsp;//&nbsp; <code>SIEMENS</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=820&section=header" width="100%" alt="rule"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MujtabaTaimur&hide_border=true&background=0d1117&stroke=00FF4126&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="stats" height="160"/>
+</p>
+
+<h3 align="center">CONTRIBUTIONS</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF41/MujtabaTaimur" width="100%" alt="contribution graph"/>
+</p>
+
+<h3 align="center">PLAYER 2?</h3>
+
+<p align="center">
+  <a href="mailto:dev@mtaimur.de">dev@mtaimur.de</a>
+  &nbsp;//&nbsp;
+  <a href="https://mtaimur.de">mtaimur.de</a>
+  &nbsp;//&nbsp;
+  Discord <code>@mtaimur</code>
+</p>
