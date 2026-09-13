@@ -39,16 +39,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MujtabaTaimur/AEROSCOPE_V2"><b>AEROSCOPE V2</b></a>
-  <img src="https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0d1117"/>
+  <a href="https://github.com/MujtabaTaimur/AEROSCOPE_V2"><img src="https://img.shields.io/badge/AEROSCOPE_V2-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="AEROSCOPE V2"/></a>
+  <img src="https://img.shields.io/badge/LIVE-00FF41?style=for-the-badge&labelColor=0d1117" alt="LIVE"/>
   <br/>Live aircraft positions on a Leaflet map via the OpenSky API
   <br/><br/>
-  <a href="https://github.com/MujtabaTaimur/ThermostatDesign"><b>THERMOSTAT DESIGN</b></a>
-  <img src="https://img.shields.io/badge/LIVE-00FF41?style=flat-square&labelColor=0d1117"/>
+  <a href="https://github.com/MujtabaTaimur/ThermostatDesign"><img src="https://img.shields.io/badge/THERMOSTAT_DESIGN-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="THERMOSTAT DESIGN"/></a>
+  <img src="https://img.shields.io/badge/LIVE-00FF41?style=for-the-badge&labelColor=0d1117" alt="LIVE"/>
   <br/>Circular, hardware-inspired smart-thermostat UI with animated weather scenes, built to feel physical and alive
   <br/><br/>
-  <b>SERVER HOMELAB</b>
-  <img src="https://img.shields.io/badge/WIP-8B949E?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/SERVER_HOMELAB-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="SERVER HOMELAB"/>
+  <img src="https://img.shields.io/badge/WIP-30363d?style=for-the-badge&labelColor=0d1117" alt="WIP"/>
   <br/>Linux services, networking, SSH, and self-hosted automation
 </p>
 
