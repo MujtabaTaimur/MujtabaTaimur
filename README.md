@@ -65,6 +65,25 @@
   <img src="https://img.shields.io/badge/Siemens-0d1117?style=for-the-badge&logo=siemens&logoColor=00FF41&labelColor=0d1117" alt="Siemens"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=820&section=header" width="100%" alt="rule"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MujtabaTaimur&hide_border=true&background=0d1117&stroke=00FF4126&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="stats" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=520&height=42&lines=CONTRIBUTIONS" alt="CONTRIBUTIONS"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00FF41/MujtabaTaimur" width="100%" alt="contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=460&height=42&lines=PLAYER+2%3F" alt="PLAYER 2?"/>
+</p>
 
 <p align="center">
   <a href="mailto:dev@mtaimur.de"><img src="https://img.shields.io/badge/dev%40mtaimur.de-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117" alt="email"/></a>
