@@ -26,12 +26,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00FF41&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF41&labelColor=0d1117"/>
 </p>
 
 <p align="center">
@@ -39,13 +42,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MujtabaTaimur/AEROSCOPE_V2"><img src="https://img.shields.io/badge/AEROSCOPE_V2-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="AEROSCOPE V2"/></a>
+  <a href="https://github.com/MujtabaTaimur/Aeroscope-v2-"><img src="https://img.shields.io/badge/AEROSCOPE_V2-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="AEROSCOPE V2"/></a>
   <img src="https://img.shields.io/badge/LIVE-00FF41?style=for-the-badge&labelColor=0d1117" alt="LIVE"/>
   <br/>Live aircraft positions on a Leaflet map via the OpenSky API
   <br/><br/>
   <a href="https://github.com/MujtabaTaimur/ThermostatDesign"><img src="https://img.shields.io/badge/THERMOSTAT_DESIGN-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="THERMOSTAT DESIGN"/></a>
   <img src="https://img.shields.io/badge/LIVE-00FF41?style=for-the-badge&labelColor=0d1117" alt="LIVE"/>
   <br/>Circular, hardware-inspired smart-thermostat UI with animated weather scenes, built to feel physical and alive
+  <br/><br/>
+  <a href="https://github.com/MujtabaTaimur/CircuitBuilder-Prototype"><img src="https://img.shields.io/badge/CIRCUITBUILDER-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="CircuitBuilder"/></a>
+  <img src="https://img.shields.io/badge/IN%20DEV-FFB000?style=for-the-badge&labelColor=0d1117" alt="IN DEV"/>
+  <br/>AI backend that turns component photos and descriptions into safe wiring plans and pinout tables
   <br/><br/>
   <img src="https://img.shields.io/badge/SERVER_HOMELAB-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117" alt="SERVER HOMELAB"/>
   <img src="https://img.shields.io/badge/WIP-30363d?style=for-the-badge&labelColor=0d1117" alt="WIP"/>
@@ -65,6 +72,13 @@
   <img src="https://img.shields.io/badge/Siemens-0d1117?style=for-the-badge&logo=siemens&logoColor=00FF41&labelColor=0d1117" alt="Siemens"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=820&section=header" width="100%" alt="rule"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1200&pause=99999&color=00FF41&center=true&vCenter=true&width=520&height=42&lines=CONTRIBUTIONS" alt="CONTRIBUTIONS"/>
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00FF41/MujtabaTaimur" width="100%" alt="contribution graph"/>
